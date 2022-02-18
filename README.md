@@ -2,9 +2,9 @@
 1. Clone the repo.
 2. Change the directory/project name.
 3. Run: 
-  > npm i
-  > npm start
+  ``` npm i ```
+  ``` npm start ```
  
 4. Update the remote url:
-  > git remote set-url <your_new_repo_url>
+  ``` git remote set-url <your_new_repo_url> ```
 5. Time to roll ! 
