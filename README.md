@@ -6,5 +6,5 @@
   ``` npm start ```
  
 4. Update the remote url:
-  ``` git remote set-url remote_name <your_new_repo_url> ```
+  ``` git remote set-url origin <your_new_repo_url> ```
 5. Time to roll ! 
