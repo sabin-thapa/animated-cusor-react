@@ -1,0 +1,41 @@
+*{
+    /* background-color: gray; */
+    margin: 20px;
+}
+
+
+.cursor-outline{
+    pointer-events: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    width: 1rem;
+    height: 1rem;
+    border: 3px solid #8860d0;
+}
+
+
+.center-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.center-text p {
+    background-color: gray;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.img {
+    height: 80%;
+    width: 100%;
+    object-fit: cover;
+
+}
